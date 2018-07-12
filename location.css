@@ -1,0 +1,39 @@
+.area {
+  background: #626168;
+  height: 55px;
+  padding: 20px;
+}
+
+.labelsearch {
+  padding-bottom: 5px;
+}
+
+.loc {
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  background-color: #363A37;
+  color: #A8A8A8;
+  width: 100px;
+  height: 50px;
+  font-family: Lucida Console;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.search {
+  width: 400px;
+  height: 34px;
+  font-family: Lucida Console;
+  font-size: 20px;
+  color: #D83916;
+  padding-left: 5px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.tickbox {
+  font-family: Lucida Console;
+  font-size: 15px;
+  color: #A8A8A8;
+}
+/*# sourceMappingURL=location.css.map */
